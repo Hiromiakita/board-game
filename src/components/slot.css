@@ -1,0 +1,24 @@
+.slot {
+    background-color: rgb(36, 36, 141);
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    margin: 0 !important;
+    display: inline-block;
+}
+
+.round {
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    margin: 0 !important;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
